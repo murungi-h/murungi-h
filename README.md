@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Harry
 - 👀 I’m interested in Sustainable Mobile technology
-- 🌱 I’m currently learning Dart. 
   
 
 <!---
