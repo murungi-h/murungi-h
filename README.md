@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harry
-- 👀 I’m interested in Sustainable Mobile technology
+- 👀 I’m interested in creating technology that makes car travel safer.
   
 
 <!---
