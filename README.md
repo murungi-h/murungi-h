@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harry
-- 👀 I’m interested in creating technology that makes car travel safer.
+- 👀 I'm learning Node and Express
   
 
 <!---
