@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Harry
-- 👀 I'm learning Node and Express
   
 
 <!---
